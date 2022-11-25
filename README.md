@@ -1,4 +1,4 @@
-### Hello, I'm Deyverson Medeiros!
+## Hello, I'm Deyverson Medeiros!
 
 - 🔭 Eu estou trabalhando atualmente com: JavaScript, Tailwind CSS, React.js, Figma, Storybook, HTML5 e CSS3. Também tenho uma boa proficiência com fluxo de trabalho com Git
 - 🔭 (En) I'm currently working with: JavaScript, Tailwind CSS, React.js, Figma, Storybook, HTML5 and CSS3. I also have a good proficiency with Git workflow
@@ -18,7 +18,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3Yv3r&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
-### Programing Language
+## Programing Language
 
 <div style="display: inline_block"><br>
   <img align="center" alt="d3Yv3r-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,7 +27,7 @@
   <img align="center" alt="d3Yv3r-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ### My Skills
+  ## My Skills
   <div style="display: inline_block"><br>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
