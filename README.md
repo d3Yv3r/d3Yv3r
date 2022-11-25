@@ -1,16 +1,16 @@
 ### Hello, I'm Deyverson Medeiros!
 
-- 🔭 Eu estou trabalhando atualmente com: JavaScript, Tailwind CSS, React.js, Figma, Storybook, HTML5 e CSS3. Também tenho uma boa proficiência com fluxo de trabalho com Git;
-- 🔭 (en) I’m currently working on JavaScript, Tailwind, React.js, HTML5 and CSS3
+- 🔭 Eu estou trabalhando atualmente com: JavaScript, Tailwind CSS, React.js, Figma, Storybook, HTML5 e CSS3. Também tenho uma boa proficiência com fluxo de trabalho com Git
+- 🔭 (En) I'm currently working with: JavaScript, Tailwind CSS, React.js, Figma, Storybook, HTML5 and CSS3. I also have a good proficiency with Git workflow
 
 - 🌱 Estou aprendendo, diariamente, um pouco mais sobre o Universo Dev!
-- 🌱 (en) I’m currently learning more about development world!
+- 🌱 (En) I’m currently learning more about development world!
 
 - 📫 Você pode me achar aqui: @deyverson_medeiros (Instagram) | https://www.linkedin.com/in/deyversonmedeiros/
-- 📫 (en) How to reach me: @deyverson_medeiros (Instagram) | https://www.linkedin.com/in/deyversonmedeiros/
+- 📫 (En) How to reach me: @deyverson_medeiros (Instagram) | https://www.linkedin.com/in/deyversonmedeiros/
 
 - ⚡ Curiosidades: Antes de migrar para a carreira Dev., eu me formei em Direito, sendo Pós-Grauado em Processo Civil e Advogado Regularmente escrito! kkkk'
-- ⚡ (en) Fun fact: I'm Lawyer, also lol
+- ⚡ (En) Fun fact: I'm Lawyer, also lol
 
 <div align="center">
   <a href="https://github.com/d3Yv3r">
