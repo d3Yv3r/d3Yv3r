@@ -3,7 +3,7 @@
 - 🔭 Eu estou trabalhando atualmente com: JavaScript, Tailwind CSS, React.js, Figma, Storybook, HTML5 e CSS3. Também tenho uma boa proficiência com fluxo de trabalho com Git
 - 🔭 (En) I'm currently working with: JavaScript, Tailwind CSS, React.js, Figma, Storybook, HTML5 and CSS3. I also have a good proficiency with Git workflow
 
-- 🌱 Estou aprendendo, diariamente, um pouco mais sobre o Universo Dev!
+- 🌱 Sou movido a desafios! A cada dia que passa estou aprendendo e me apaixonando ainda mais pelo Universo Dev!
 - 🌱 (En) I’m currently learning more about development world!
 
 - 📫 Você pode me achar aqui: @deyverson_medeiros (Instagram) | https://www.linkedin.com/in/deyversonmedeiros/
