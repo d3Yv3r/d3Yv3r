@@ -3,9 +3,9 @@
 - 🔭 Eu estou trabalhando, atualmente, com JavaScript, Tailwind, React.js, Storybook, HTML5 and CSS3
 - 🔭 I’m currently working on JavaScript, Tailwind, React.js, HTML5 and CSS3
 - 🌱 Estou aprendendo, diariamente, um pouco mais sobre o Universo Dev!
-- 🌱 I’m currently learning more about development word!
-- 📫 Você pode me achar aqui: @deyverson_medeiros (Instagran) | https://www.linkedin.com/in/deyversonmedeiros/
-- 📫 How to reach me: @deyverson_medeiros (Instagran) | https://www.linkedin.com/in/deyversonmedeiros/
+- 🌱 I’m currently learning more about development world!
+- 📫 Você pode me achar aqui: @deyverson_medeiros (Instagram) | https://www.linkedin.com/in/deyversonmedeiros/
+- 📫 How to reach me: @deyverson_medeiros (Instagram) | https://www.linkedin.com/in/deyversonmedeiros/
 - ⚡ Curiosidades: Antes de migrar para a carreira Dev., eu me formei em Direito, sendo Pós-Grauado em Processo Civil e Advogado Regularmente escrito! kkkk'
 - ⚡ Fun fact: I'm Lawyer, also kkkk'
 
