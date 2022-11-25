@@ -1,4 +1,3 @@
-### Olá, me chamo Deyverson Medeiros!
 ### Hello, I'm Deyverson Medeiros!
 
 - 🔭 Eu estou trabalhando, atualmente, com JavaScript, Tailwind, React.js, Storybook, HTML5 and CSS3
@@ -16,7 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3Yv3r&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
-### Linguagens de Programações
+### Programing Language
 
 <div style="display: inline_block"><br>
   <img align="center" alt="d3Yv3r-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
