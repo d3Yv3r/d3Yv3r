@@ -9,7 +9,7 @@
 - 📫 Você pode me achar aqui: @deyverson_medeiros (Instagram) | https://www.linkedin.com/in/deyversonmedeiros/
 - 📫 (En) How to reach me: @deyverson_medeiros (Instagram) | https://www.linkedin.com/in/deyversonmedeiros/
 
-- ⚡ Curiosidades: Antes de migrar para a carreira Dev., eu me formei em Direito, sendo Pós-Grauado em Processo Civil e Advogado Regularmente escrito! kkkk'
+- ⚡ Curiosidades: Antes de migrar para a carreira Dev., eu me formei em Direito, sendo Pós-Grauado em Processo Civil e também Advogado! kkkk'
 - ⚡ (En) Fun fact: I'm Lawyer, also lol
 
 <div align="center">
